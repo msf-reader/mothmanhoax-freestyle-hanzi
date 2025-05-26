@@ -1,5 +1,0 @@
-baseURL = '/'
-relativeURLs = true
-canonifyURLs = false
-languageCode = 'fr-fr'
-title = "FreeStyle-HanZi"
