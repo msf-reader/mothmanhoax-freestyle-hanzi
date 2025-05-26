@@ -2,4 +2,4 @@ baseURL = '/'
 relativeURLs = true
 canonifyURLs = false
 languageCode = 'fr-fr'
-title = 'discord-to-hugo'
+title = "FreeStyle-HanZi"
